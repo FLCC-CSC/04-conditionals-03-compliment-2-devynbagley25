@@ -23,7 +23,7 @@ def main():
             print('You have wonderful eyes.')
         else:
             print('No compliment for you!')
-        print('Thanks for playing.')
+        print('Thank you for playing.')
 
     compliment()
 main()
